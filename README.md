@@ -22,7 +22,7 @@ I keep updating this repository as soon as I get to know about any event. I **re
 Name | Community | Date | Time | Link
 --- | --- | --- | --- | ---
 FOSS Mega Meetup | India Linux Users Group Delhi (ILUGD) | 4-August-2018 | 10:30 AM - 4:00 PM | [More Info](https://www.meetup.com/ilugdelhi/events/rjnzmpyxlbgb/)
-
+LinuxChix India Meetup | LinuxChix India Meetup | 5-August-2018 | 11:00 AM - 4:00 PM | [More Info](https://www.meetup.com/LinuxChix-India-Meetup/events/hkjxzpyxlbhb/)
 
 ### July 2018
 Name | Community | Date | Time | Link
